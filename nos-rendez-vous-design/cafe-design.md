@@ -5,7 +5,7 @@ description: >-
   utilisateurs.
 ---
 
-# ☕ Évènements Design
+# ☕ Événements Design
 
 ### À venir <a id="Caf&#xE9;sFormations-&#xE0;-venir"></a>
 
